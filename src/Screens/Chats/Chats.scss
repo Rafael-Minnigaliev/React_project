@@ -1,0 +1,14 @@
+.Chats {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: #fff;
+  margin-top: 60px;
+  align-items: self-start;
+
+  &__add-chat {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+}
